@@ -1,2 +1,28 @@
-# web-framework-design
+# Web-framework-design
+
 Resources and prototypes for designing a modern php framework
+
+The Ultimate goals for this framework
+
+- [ ] try to create at least wheels as possible.
+- [ ] good performance when work as api server
+- [ ] instant json api, doc, test with simple config.
+- [ ] auto documentation for projects using this framework
+- [ ] easy to test.
+- [ ] async job process and monitor (like resque)
+
+It won't have
+
+- form utils, like form generator, validation
+- multiple database support
+- i18n
+- php5.5- support
+
+## Projects for references
+
+- Laravel. the most popular php framework. However, quite complex.
+- lumen. small laravel?
+- Phabricator. refuse to use composer, everything from scratch, many good utils, future, daemon.
+- Symfony. Symfony components are used everywhere.
+- LazyPHP4 a api first php framework.
+- api-platform a more api first php framework

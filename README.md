@@ -9,10 +9,13 @@ The Ultimate goals for this framework
 - [ ] instant json api, doc, test with simple config.
 - [ ] auto documentation for projects using this framework
 - [ ] easy to test.
+- [ ] rich command line utils
 - [ ] async job process and monitor (like resque)
+*- [ ] N+1 query.
 
 It won't have
 
+- template engine
 - form utils, like form generator, validation
 - multiple database support
 - i18n
@@ -26,3 +29,7 @@ It won't have
 - Symfony. Symfony components are used everywhere.
 - LazyPHP4 a api first php framework.
 - api-platform a more api first php framework
+
+TODO
+- silex and other micro framework
+- rails, play, beego etc.

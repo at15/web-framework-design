@@ -31,3 +31,16 @@ resources images and etc
 scripts
 
 **celerity** the front end assets manage tools for them.
+
+src
+
+infrastructure
+
+query  the query builder
+
+**cursor paged policy** more efficient than offset.
+
+
+the garbage collector, which will delete the unused data from mysql
+
+the worker, which use mysql as backend. 

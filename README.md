@@ -29,6 +29,7 @@ It won't have
 - Symfony. Symfony components are used everywhere.
 - LazyPHP4 a api first php framework.
 - api-platform a more api first php framework
+- sonata project, a list of symfony bundles
 
 TODO
 - silex and other micro framework
